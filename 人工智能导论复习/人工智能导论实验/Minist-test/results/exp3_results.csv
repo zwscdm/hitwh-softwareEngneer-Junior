@@ -1,0 +1,4 @@
+dataset,num_samples,accuracy_percent,test_loss
+D1,6000,92.16,0.2737
+D2,600,26.09,2.2429
+D3,60,6.81,2.3157
